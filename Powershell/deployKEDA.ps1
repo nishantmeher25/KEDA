@@ -24,4 +24,4 @@ helm install keda `
 #     --namespace keda `
 #     --name keda
 
-Set-Location ~/projects/pd-tech-fest-2019/Powershell
+# Set-Location ~/projects/pd-tech-fest-2019/Powershell
