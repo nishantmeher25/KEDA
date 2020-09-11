@@ -6,7 +6,7 @@ Param(
     [parameter(Mandatory = $false)]
     [string]$resourceGroupLocaltion = "East US",
     [parameter(Mandatory = $false)]
-    [string]$acrRegistryName = "ngAcrRegistry"
+    [string]$acrRegistryName = "ngAcrRegistryNM"
 )
 
 # Set Azure subscription name

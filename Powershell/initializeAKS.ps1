@@ -12,7 +12,7 @@ Param(
     [parameter(Mandatory = $false)]
     [string]$kubernetesVersion = "1.11.2",
     [parameter(Mandatory = $false)]
-    [string]$acrRegistryName = "ngAcrRegistry"
+    [string]$acrRegistryName = "ngAcrRegistryNM"
 
 )
 
