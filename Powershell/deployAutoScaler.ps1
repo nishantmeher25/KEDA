@@ -9,4 +9,4 @@ kubectl apply --recursive --filename .
 
 Write-Host "ScaledObject and related resources deployed successfully" -ForegroundColor Cyan
 
-Set-Location ~/projects/pd-tech-fest-2019/Powershell
+Set-Location ~/KEDA/Powershell
