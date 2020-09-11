@@ -28,4 +28,4 @@ Write-Host "Tech talks Producer deployed successfully" -ForegroundColor Cyan
 
 Write-Host "All the services related to Tech Talks application have been successfully deployed" -ForegroundColor Cyan
 
-Set-Location ~/projects/pd-tech-fest-2019/Powershell
+Set-Location ~/KEDA/Powershell

@@ -69,4 +69,4 @@ kubectl create clusterrolebinding kubernetes-dashboard `
     --clusterrole=cluster-admin `
     --serviceaccount=kube-system:kubernetes-dashboard
 
-Set-Location ~/projects/pd-tech-fest-2019/Powershell
+Set-Location ~/KEDA/Powershell
