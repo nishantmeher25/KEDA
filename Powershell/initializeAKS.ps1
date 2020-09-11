@@ -1,10 +1,10 @@
 Param(
     [parameter(Mandatory = $false)]
-    [string]$subscriptionName = "Microsoft Azure Sponsorship",
+    [string]$subscriptionName = "Visual Studio Enterprise",
     [parameter(Mandatory = $false)]
-    [string]$resourceGroupName = "demo-dear-azure-aksRG",
+    [string]$resourceGroupName = "kedaresgrp",
     [parameter(Mandatory = $false)]
-    [string]$resourceGroupLocaltion = "South East Asia",
+    [string]$resourceGroupLocaltion = "East US",
     [parameter(Mandatory = $false)]
     [string]$clusterName = "aksCluster",
     [parameter(Mandatory = $false)]
