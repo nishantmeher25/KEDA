@@ -50,7 +50,8 @@ if ($aksCLusterExists -eq $false) {
         --node-count=$workerNodeCount `
         --enable-managed-identity `
         --attach-acr=$acrRegistryName `
-        --output=jsonc
+        --output=jsonc `
+        --generate-ssh-keys 
 }
 # Get credentials for newly created cluster
 Write-Host "Getting credentials for cluster $clusterName" -ForegroundColor Yellow
