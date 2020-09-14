@@ -1,8 +1,8 @@
 Param(
     [parameter(Mandatory = $false)]
-    [string]$resourceGroupName = "demo-aks-vnodeRG",
+    [string]$resourceGroupName = "kedaresgrp",
     [parameter(Mandatory = $false)]
-    [string]$clusterName = "aksVNodeCluster"
+    [string]$clusterName = "aksCluster"
 )
 
 # Browse AKS dashboard
