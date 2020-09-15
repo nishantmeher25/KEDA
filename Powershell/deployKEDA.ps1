@@ -24,4 +24,4 @@ helm install keda `
 #     --namespace keda `
 #     --name keda
 
-Set-Location ~/KEDA/Powershell
+Set-Location C:\CODE\KEDA\Powershell
