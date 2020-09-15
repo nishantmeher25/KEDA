@@ -255,7 +255,7 @@ As part of my YouTube channel, I also did a multi-part series on this project. T
 
 - Part 3 - Autoscaling containers with KEDA - KEDA Autoscale in action
 
-[![Part 3 - Autoscaling containers with KEDA - KEDA Autoscale in action](/images/part3-KEDA-install.gif)](https://youtu.be/X8x_FdN1Fvo)
+[![Part 3 - Autoscaling containers with KEDA - KEDA Autoscale in action](/images/part3-KEDA-install.gif)](https://www.youtube.com/watch?v=-jOVplEzypY)
 
 ## Slides
 
